@@ -1,1 +1,1 @@
-"Course materials of Machine Learning course at IISc, Spring 2020" 
+Course materials of Machine Learning course at IISc, Spring 2020
